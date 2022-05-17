@@ -3,7 +3,7 @@
 #This is human file editing
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> Gaurav Sharma <twitter>
 
 # THANKS
 
