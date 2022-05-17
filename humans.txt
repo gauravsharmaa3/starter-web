@@ -5,7 +5,7 @@
 
     Gaurav Sharma
     gauravsharmaa3@gmail.com
-    DevOps Engineer
+    CLT.DevOps Engineer
 
 # THANKS
 
@@ -15,3 +15,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+    Docker, Java Programing
