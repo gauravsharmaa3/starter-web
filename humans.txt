@@ -3,7 +3,9 @@
 #This is human file editing
 # TEAM
 
-    <name> Gaurav Sharma <twitter>
+    Gaurav Sharma
+    gauravsharmaa3@gmail.com
+    DevOps Engineer
 
 # THANKS
 
