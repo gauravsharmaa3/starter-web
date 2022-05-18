@@ -5,5 +5,5 @@ This repository is for showing how Git and GitHub work
 Frok the repo and raise pull request for review
 ## Purpose
 Adding GIT rebase lecture.
-
+We have done so much of work together.
 Sample website with plenty of files for demos
