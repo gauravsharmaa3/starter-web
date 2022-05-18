@@ -7,3 +7,4 @@ Frok the repo and raise pull request for review
 Adding GIT rebase lecture.
 We have done so much of work together.
 Sample website with plenty of files for demos
+Alot off lectures are still coming on
