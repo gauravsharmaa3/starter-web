@@ -18,3 +18,4 @@ Adding Important notes on GIT local
     HTML5, CSS3
     jQuery, Modernizr
     Machine learning, AWS, Gcloud
+    AWS developer
