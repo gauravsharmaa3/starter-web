@@ -1,6 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 Doing some changes on local
+Adding Important notes on GIT local
 #This is human file editing
 # TEAM
 
